@@ -4,10 +4,6 @@
 
 Hi there! I'm Patrícia, a Software Engineer passionate about building cool things. I love working on projects that can have an impact on someone, in whichever way that might be. 
 
-## Skills
-
-- Programming Languages: Dart, Python, C, OCaml, Java, JavaScript, TypeScript, Go
-- Technologies/Frameworks: Flutter, Django, React.js, Node.js, Spring, GraphQL, RestAPIs
 
 ## Connect with Me
 
